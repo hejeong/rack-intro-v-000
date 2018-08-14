@@ -1,4 +1,4 @@
-require 'spec_helper.rb'
+
 
 describe "Application" do
   it "should introduce itself" do
